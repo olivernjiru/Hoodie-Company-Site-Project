@@ -1,0 +1,79 @@
+.page{
+    background-color: #000000;
+}
+nav{
+    margin-top:20px;
+}
+.homebutton{
+    color:#ffffff;
+    font-size:50px;
+    padding-left:400px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    text-align: center;
+}
+.homebutton:hover{
+    color: #080cfa;
+}
+.hoodies{
+    margin-left:20px;
+    margin-right:135px;
+    font-size: 30px;
+    text-decoration: none;
+    color: #eeff00;
+    background-color: #494945
+}
+.hoodies:hover{
+    color: #ffffff;
+}
+.t-shirts{
+    margin-right:135px;
+    font-size: 30px;
+    text-decoration: none;
+    color: #eeff00
+}
+.t-shirts:hover{
+    color: #ffffff;
+}
+.sweatshirts{
+    margin-right:135px;
+    font-size: 30px;
+    text-decoration: none;
+    color: #eeff00
+}
+.sweatshirts:hover{
+    color: #ffffff;
+}
+.buckethats{
+    margin-right:135px;
+    font-size: 30px;
+    text-decoration: none;
+    color: #eeff00
+}
+.buckethats:hover{
+    color: #ffffff;
+}
+.cargopants{
+    margin-right:135px;
+    font-size: 30px;
+    text-decoration: none;
+    color: #eeff00
+}
+.cargopants:hover{
+    color: #ffffff;
+}
+body h2{
+    color:#ffffff;
+    font-size:40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-bottom: 450px;
+}
+footer{
+    color:#ffffff;
+}
+body h2:hover{
+    font-size: 60px;f
+    color: #eeff00;
+    font-family:Arial, Helvetica, sans-serif;
+}
