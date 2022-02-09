@@ -5,6 +5,10 @@
     padding: 0; 
 }
 
+img {
+    max-width: 100%;
+}
+
 .page{
     background-color: #000000;
 }
